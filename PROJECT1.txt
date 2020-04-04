@@ -42,7 +42,7 @@ else
  <input type="text" id="tbox" placeholder-"Enter the string here" /> 
 <input type="button" onclick="TestFunction()" value= "Click here" /></p>
  </form>
- <p style="color:pink;">Thank you :)
+ <p style="color:red;">Thank you :)
  </p>
  </center> 
 </body>
