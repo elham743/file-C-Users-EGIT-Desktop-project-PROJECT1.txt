@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+ <head>
+ <center> 
+<h2 style="color:red;"><b> Hi <b>
+ </h2> 
+<p style="color:yellow;">Assignment-3 </p>
+ <body style="background- color:blue;">
+ <script sre="http://ajax.googleapis.com/ajax/libs/jque ry/1.11.1/jquery.min.js"></script>
+ <title>Palindrome using JS</title> 
+<style>
+ input{
+ padding: 20px; 
+</style>
+ <script> 
+function TestFunction() 
+var InputStr = document.getElementByld('tbox').value;
+  var resStr = checkingPalindrome(InputStr);
+ alert('The input string'"+InputStr+" 'is' "+resStr+""); 
+}
+function checkingPalindrome(InputStr)
+{ var origString;
+  InputStr = InputStr.toLowerCase(); 
+ origString= InputStr; 
+ InputStr = InputStr.split(");
+ InputStr = InputStr.reverse(); 
+ InputStr = InputStr.join(");
+ var revString = InputStr;
+if origString ==revString){
+ return 'Palindrome string';
+}
+else
+{
+ return 'not a Palindrome string': 
+}
+}
+</script>
+ </head>
+ <body>
+ <form action=" method="get">&nbsp 
+<h3 align='center' >Javascript Program to find if the string is Palindrome or not: </h3> &nbsp 
+<p align='center'>
+ <input type="text" id="tbox" placeholder-"Enter the string here" /> 
+<input type="button" onclick="TestFunction()" value= "Click here" /></p>
+ </form>
+ <p style="color:pink;">Thank you :)
+ </p>
+ </center> 
+</body>
+ </html>
