@@ -3,7 +3,7 @@
  <center> 
 <h2 style="color:red;"><b> Hello <b>
  </h2> 
-<p style="color:yellow;">Assignment-3 </p>
+<p style="color:pink;">Assignment-3 </p>
  <body style="background- color:blue;">
  <script sre="http://ajax.googleapis.com/ajax/libs/jque ry/1.11.1/jquery.min.js"></script>
  <title>Palindrome using JS</title> 
