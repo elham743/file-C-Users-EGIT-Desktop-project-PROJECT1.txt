@@ -8,4 +8,4 @@ home work about Write a JavaScript program to find if the string is palindrome o
 
 
 Installation guide:
- You save it in a format HTML and then play 
+ You save it in a format HTML and then playy 
